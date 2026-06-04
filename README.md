@@ -8,6 +8,8 @@ I also teach Power BI, analytics, and data-driven product thinking.
 
 LinkedIn: https://www.linkedin.com/in/mohammadghaheri/
 
+Youtube: https://www.youtube.com/@MohammadGhaheri
+
 Email: mohammad.ghaheri@gmail.com
 <!---
 MohammadGhaheri/MohammadGhaheri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
